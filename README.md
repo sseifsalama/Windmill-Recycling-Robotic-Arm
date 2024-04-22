@@ -1,12 +1,14 @@
 # Robotic Arm
 
-A fully functional robotic arm controlled remotely using custom-made muscle and eye sensors as well as additional sensors. The basis of this project was combining an Engineering design module to design a robotic arm and an electronic systems module to design and implement a custom-made muscle sensor to move servo motors.
+A fully functional robotic arm, which cuts wind turbine steel, and paints it with a protective coating. Althogh customizable, it is equiped with two end effectors:
+1. Fly Cutter rotated using bevel gears
+2. Paint Brush rotated using pan and tilt mehcnaism
 
-## Step by Step Implementation
+## Step by Step Prototype Implementation
 
-1. 3D print Robotic Arm Parts and assemble (Refer to tobecreated.md)
-2. Buy and assemble circuit components (Refer to tobecreated.md)
-3. Upload code to microcontoller (Refer to tobecreated.md)
+1. 3D print Robotic Arm Parts
+2. Buy and connect electrical components
+3. Upload main.ino to microcontoller
 
 ## Applications
 
