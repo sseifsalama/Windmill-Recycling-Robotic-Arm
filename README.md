@@ -11,7 +11,7 @@ A fully functional robotic arm controlled remotely using custom-made muscle and 
 ## Applications
 
 As a low cost robotic arm with a customizable end-effector, it can have a wide range of applications:
-1. Usuage in dangerous situations
-2. Usuage in circumstances where cost is a factor
-3. Usuage in circumstances requiring precision
-4. Usuage in circumstances requiring manual hand control
+1. Usage in dangerous situations
+2. Usage in circumstances where cost is a factor
+3. Usage in circumstances requiring precision
+4. Usage in circumstances requiring manual hand control
